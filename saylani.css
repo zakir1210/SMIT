@@ -1,0 +1,113 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    position: relative;
+}
+.navbtn button{
+    height: 43px;
+    width: 180px;
+    transition: all 0.1s linear;
+    transform: scale(1);
+    color: white;
+    
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.navbtn button:hover{
+    transform: scale(1.1);
+}
+.maintext{
+    position: relative;
+    top: 90px;
+
+}
+.maintext h3{
+    margin-top: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:900px;
+}
+.maintext p{
+    font-size: 18px;
+
+}
+.javaScriptform{
+    background-color: rgb(213, 240, 213);
+    height: 131px;
+    
+    border-radius: 8px;
+}
+.input-group{
+    height: 55px;
+}
+.javaScriptbtn button{
+    background-color: white;
+    padding: 14px 17px;
+    margin-left: 17px;
+    transform: scale(1);
+}
+.javaScriptbtn button:hover{
+    transform: scale(1.1);
+    background-color: rgb(33, 32, 32);
+    color: white;
+
+}
+.javaScriptbtn1 button{
+    background-color: rgb(76, 250, 76);
+    padding: 14px 20px;
+}
+.saylanihelp img{
+    transform: scale(1);
+    transition: all 0.1s linear;
+}
+.saylanihelp img:hover{
+    transform: scale(1.1);
+    
+}
+
+.saylanieducation img{
+    transform: scale(1);
+    transition: all 0.1s linear;
+    
+}
+.saylanieducation img:hover{
+    transform: scale(1.1);
+}
+
+.saylanieducation button{
+    width: 98%;
+    height: 42px;
+    bottom: 52px;
+    background-color: rgb(76, 250, 76);
+    transform: scale(1);
+    transition: all 0.1s linear;
+}
+.saylanieducation button:hover{
+    transform: scale(0.9);
+   opacity: 0.7;
+    background-color: rgb(76, 250, 76);
+    
+}
+.labourpage h5{
+    color: rgb(61, 118, 225);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+}
+.ownerinfo{
+    background-color: rgb(245, 236, 236);
+}
+.studentinterview iframe{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.formbtn button{
+    background-color: white;
+    padding: 15px 15px;
+    width: 585px;
+}
+.formbtn input{
+    background-color: transparent;
+    padding: 15px 15px;
+    width: 585px;
+    left: 75px;
+    
+}
